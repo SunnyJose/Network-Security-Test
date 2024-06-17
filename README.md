@@ -20,7 +20,7 @@ This lab aimed to identify three targets in the network using Metasploit. In add
 - Metasploit for developing and executing exploit code against a remote target machine.
 - Windows, the target operating system for identifying vulnerabilities.
 
-## Steps
+## Procedures
 1. Update and Setup:
 
     - Kali Linux was first updated as a root user.
