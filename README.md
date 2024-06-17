@@ -34,6 +34,7 @@ This lab aimed to identify three targets in the network using Metasploit. In add
    - Three targets were identified from the Nmap scan.
    - The target output files from Nmap were imported into the Metasploit database.
 
+   ![20240615_231142 Step_2](https://github.com/SunnyJose/Network-Security-Test/assets/170783401/6cc8cd0f-af32-4ebc-bc0d-383895c78238)
 3. Exploit Configured and Executed:
    - The exploit was configured to use windows/meterpreter/reverse_tcp.
    - Exploit was executed.
