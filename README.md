@@ -27,6 +27,7 @@ This lab aimed to identify three targets in the network using Metasploit. In add
     - Installation of Metasploit framework using the -y parameter for confirmation.
     - Metasploit database was initialized and the MSF Console launched.
 
+    ![20240615_230710 Step_1](https://github.com/SunnyJose/Network-Security-Test/assets/170783401/cfdfcbb1-8349-41b7-840d-ca2f3bb96e30)
 
 2. Conducting Nmap Scan:
    - Nmap scan was performed from within the MSF Console.
