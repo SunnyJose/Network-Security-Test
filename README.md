@@ -40,7 +40,7 @@ This lab aimed to identify three targets in the network using Metasploit. In add
    - Exploit was executed.
    - Confirmed that a Meterpreter session was opened, indicating a successful exploit.
 
-
+   ![20240616_214258 Step_3](https://github.com/SunnyJose/Network-Security-Test/assets/170783401/b5e3abb6-a826-4151-bb68-b29ad9e7a195)
 
  
 
